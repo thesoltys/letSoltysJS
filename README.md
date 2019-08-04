@@ -1,0 +1,2 @@
+# letSoltysJS
+Smal JS steps
